@@ -20,6 +20,9 @@ export const metadata: Metadata = {
   title: "Steve Martin — Founder, Gobiya | I Engineer Search Ecosystems",
   description:
     "Steve Martin — founder & lead developer of Gobiya, the Los Angeles SEO & web development agency. 30 years in web design, 25+ years in search engineering.",
+  verification: {
+    google: "x8ImZjUynlR0KeyoxzNswxqNhnouRGFCEjJs1xB6JI0",
+  },
 };
 
 const jsonLd = {
